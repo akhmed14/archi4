@@ -12,4 +12,4 @@
 классов приложена в материалах курса.
 ![CoreDiag (1) (1).png](CoreDiag%20%281%29%20%281%29.png)
 ![UMLDomen (2) (1).jpg](UMLDomen%20%282%29%20%281%29.jpg)
-![UMLProvider (3) (1).jpg](UMLProvider%20%283%29%20%281%29.jpg)
+![UMLProvider (3) (1).jpg](UMLProvider%20%283%29%20%281%29.jpg)# archi4-2
